@@ -4,6 +4,7 @@ R/LME/N-3 - Alleviating Regulatory Impediments To Native Shellfish Aquaculture
 Progress Report: January 2014 – January 2015 
 
 A significant impediment to sustainable aquaculture is the lack of proper information to predict the impacts of culturing native shellfish species for restoration and commercial production. As a result, expansion and growth of domestic aquaculture is constrained and may be halted by management directives that restrict distribution of hatchery derived native shellfish until the potential interactions are better understood. The overall goals of this project are to increase our knowledge of local adaptation in Olympia oysters to address concerns that interbreeding between potentially maladapted cultured and wild stocks could negatively impact wild populations. Over the current reporting period we successfully completed research objective 1, to evaluate fitness components and performance of seed from different origins in a reciprocal transplant experiment. This research effort culminated in the preprint published in December 2014 [Heare JE, Blake B, Davis JP, Vadopalas B, Roberts SB. (2015) Evidence of _Ostrea lurida_ (Carpenter 1864) population structure in Puget Sound, WA. PeerJ PrePrints 3:e1106 https://dx.doi.org/10.7287/peerj.preprints.704]. The paper is currently out for peer-review.
+In summary, *Ostrea lurida* from Dabob Bay had higher survival at all sites but lower reproductive activity and growth. Oysters from Oyster Bay demonstrated greater reproductive activity at all sites with moderate growth and survival.  Together these data suggest the existence of *O. lurida* population structure within Puget Sound and provide information on how broodstock should be selected for restoration purposes.
 
 
 
@@ -17,4 +18,4 @@ Our primary accomplishment this reporting period was the phenotypic characteriza
 ---
 Impacts
 
-The primary impact of our work spawned from 
+The primary impact of our work spawned from genetic analyses of two breeding methods, commercial and a "restoration" method.  These approaches use a mass spawning approachin versus numerous batch spawns. Our microsatellite work demonstrated that there was just as much genetic diversity with the less resource intensive mass spawning approach (commercial). With this information the Puget Sound Restoration Fund is switching to mass spawning approach with a significant reduction in person hours to obtain suitable seed for restoration. 
